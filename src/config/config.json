@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "u841345258_MVCu",
+    "password": "Instient@2023",
+    "database": "u841345258_MVC",
+    "host": "sql348.main-hosting.eu",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "u841345258_MVCu",
+    "password": "Instient@2023",
+    "database": "u841345258_MVC",
+    "host": "sql348.main-hosting.eu",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u841345258_MVCu",
+    "password": "Instient@2023",
+    "database": "u841345258_MVC",
+    "host": "sql348.main-hosting.eu",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
