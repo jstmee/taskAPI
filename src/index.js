@@ -5,8 +5,6 @@ const bodyParser = require("body-parser");
 
 const { PORT } = require("./config/serverConfig");
 
-
-
 const getAllCustomers = require("./controller/customer-controller");
 const getOrdersById = require("./controller/order-controller");
 
